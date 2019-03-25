@@ -1,4 +1,4 @@
-  trios = []
+trios = []
 
 with open("trojki.txt") as data:
   for line in data:
