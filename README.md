@@ -4,3 +4,4 @@
 3.Zadanie 62 "Liczby ósemkowe" - http://tkadziolka.pl/blog/matura_informatyka_zbior_zadan_zadanie_62_liczby_osemkowe.html</br>
 4.Zadanie 63 "Ciągi zerojedynkowe" http://tkadziolka.pl/blog/matura_informatyka_zbior_zadan_zadanie_63_ciagi_zerojedynkowe.html</br>
 5.Zadanie 65 "Ułamki" - http://tkadziolka.pl/blog/matura_informatyka_zbior_zadan_zadanie_65_ulamki.html</br>
+6.Zadanie 68 "Napisy" - http://tkadziolka.pl/blog/matura_informatyka_zbior_zadan_zadanie_68_napisy.html</br>
