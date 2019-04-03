@@ -40,8 +40,6 @@ def isAnagram(word1, word2):
         return True
   return False
 
-example = [["BBBAAB", "BBBABA"], ["AAAA", "AAAAA"], ["AHHAH", "AHHAH"], ["BBABBABB", "BBBABB"], ["BABABB", "CACACC"]]
-
 def zad3():
   k = 0
   allWords = [] 
