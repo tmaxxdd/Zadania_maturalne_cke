@@ -6,3 +6,4 @@
 5.Zadanie 65 "Ułamki" - http://tkadziolka.pl/blog/matura_informatyka_zbior_zadan_zadanie_65_ulamki.html</br>
 6.Zadanie 66 "Trójki liczb" - http://tkadziolka.pl/blog/matura_informatyka_zbior_zadan_zadanie_66_trojki_liczb.html</br>
 7.Zadanie 68 "Napisy" - http://tkadziolka.pl/blog/matura_informatyka_zbior_zadan_zadanie_68_napisy.html</br>
+8.Zadanie 69 "Geny" - http://tkadziolka.pl/blog/matura_informatyka_zbior_zadan_zadanie_69_geny.html<br>
