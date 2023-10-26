@@ -15,7 +15,13 @@ def loadCleanData(fileName):
   return(values)
   
 def findDifference(numbers):
-  return numbers[1] - numbers[0]
+  diff = list()
+  for i in range(0, len(numbers)):
+    dif = numbers[i+1] - numbers[i]
+    if dif in diff:
+      return dif
+    else:
+      diff.append(dif)
   
 def isArthmetic(numbers):
   difference = findDifference(numbers)
